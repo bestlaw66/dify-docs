@@ -8,6 +8,7 @@
 * [Dify Community](getting-started/install-self-hosted/README.md)
   * [Deploy with Docker Compose](getting-started/install-self-hosted/docker-compose.md)
   * [Start with Local Source Code](getting-started/install-self-hosted/local-source-code.md)
+  * [Deploy with aaPanel](getting-started/install-self-hosted/bt-panel.md)
   * [Start Frontend Docker Container Separately](getting-started/install-self-hosted/start-the-frontend-docker-container.md)
   * [Environment Variables Explanation](getting-started/install-self-hosted/environments.md)
   * [FAQs](getting-started/install-self-hosted/faqs.md)
