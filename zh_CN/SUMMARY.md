@@ -9,6 +9,7 @@
 * [社区版](getting-started/install-self-hosted/README.md)
   * [Docker Compose 部署](getting-started/install-self-hosted/docker-compose.md)
   * [本地源码启动](getting-started/install-self-hosted/local-source-code.md)
+  * [宝塔面板部署](getting-started/install-self-hosted/bt-panel.md)
   * [单独启动前端 Docker 容器](getting-started/install-self-hosted/start-the-frontend-docker-container.md)
   * [环境变量说明](getting-started/install-self-hosted/environments.md)
   * [常见问题](getting-started/install-self-hosted/faq.md)
